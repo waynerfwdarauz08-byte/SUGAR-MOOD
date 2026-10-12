@@ -1,0 +1,277 @@
+{
+  "state": {
+    "productos": [
+      {
+        "id": 1,
+        "cat": "Premium",
+        "name": "Choco Vainilla",
+        "price": 700,
+        "stock": 15,
+        "sold": 23,
+        "img": "https://images.unsplash.com/photo-1570197781417-0c1598ccce56?w=300&q=80",
+        "desc": "Paleta cremosa con baño de chocolate y vainilla natural."
+      },
+      {
+        "id": 2,
+        "cat": "Premium",
+        "name": "Chocolate",
+        "price": 700,
+        "stock": 10,
+        "sold": 31,
+        "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=300&q=80",
+        "desc": "100% cacao intenso con textura aterciopelada."
+      },
+      {
+        "id": 3,
+        "cat": "Premium",
+        "name": "Yipi",
+        "price": 700,
+        "stock": 10,
+        "sold": 12,
+        "img": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=300&q=80",
+        "desc": "Mezcla exclusiva multicolor con toppings crujientes."
+      },
+      {
+        "id": 4,
+        "cat": "Premium",
+        "name": "Cappuccino",
+        "price": 700,
+        "stock": 8,
+        "sold": 18,
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=300&q=80",
+        "desc": "Café espresso artesanal en paleta helada."
+      },
+      {
+        "id": 5,
+        "cat": "Premium",
+        "name": "Oreo Limón",
+        "price": 700,
+        "stock": 12,
+        "sold": 27,
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=300&q=80",
+        "desc": "Galleta Oreo triturada con toque cítrico."
+      },
+      {
+        "id": 6,
+        "cat": "Premium",
+        "name": "ChocoFresa",
+        "price": 700,
+        "stock": 15,
+        "sold": 20,
+        "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=300&q=80",
+        "desc": "Fresa natural bañada en chocolate belga."
+      },
+      {
+        "id": 7,
+        "cat": "Premium",
+        "name": "Queque",
+        "price": 700,
+        "stock": 5,
+        "sold": 9,
+        "img": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=300&q=80",
+        "desc": "Sabor a pastel de cumpleaños con chispas."
+      },
+      {
+        "id": 8,
+        "cat": "Premium",
+        "name": "Churchill",
+        "price": 700,
+        "stock": 20,
+        "sold": 35,
+        "img": "https://images.unsplash.com/photo-1570197781417-0c1598ccce56?w=300&q=80",
+        "desc": "El clásico costarricense: raspado con sirope y leche."
+      },
+      {
+        "id": 9,
+        "cat": "Premium",
+        "name": "Pinito",
+        "price": 700,
+        "stock": 10,
+        "sold": 14,
+        "img": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=300&q=80",
+        "desc": "Crema de leche Pinito en versión helada."
+      },
+      {
+        "id": 10,
+        "cat": "Tradicionales",
+        "name": "Crema",
+        "price": 500,
+        "stock": 15,
+        "sold": 40,
+        "img": "https://images.unsplash.com/photo-1550461716-ba43c7b64264?w=300&q=80",
+        "desc": "Clásica paleta de crema artesanal."
+      },
+      {
+        "id": 11,
+        "cat": "Tradicionales",
+        "name": "Galleta Oreo",
+        "price": 500,
+        "stock": 20,
+        "sold": 38,
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=300&q=80",
+        "desc": "Cookies & cream con trozos reales de galleta."
+      },
+      {
+        "id": 12,
+        "cat": "Tradicionales",
+        "name": "NatiFrutas",
+        "price": 500,
+        "stock": 8,
+        "sold": 15,
+        "img": "https://images.unsplash.com/photo-1550461716-ba43c7b64264?w=300&q=80",
+        "desc": "Mezcla tropical de frutas naturales."
+      },
+      {
+        "id": 13,
+        "cat": "Tradicionales",
+        "name": "Chocomaní",
+        "price": 500,
+        "stock": 10,
+        "sold": 22,
+        "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=300&q=80",
+        "desc": "Chocolate con trozos de maní tostado."
+      },
+      {
+        "id": 14,
+        "cat": "Frescas",
+        "name": "Cas",
+        "price": 500,
+        "stock": 25,
+        "sold": 45,
+        "img": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=300&q=80",
+        "desc": "Fruta de cas 100% natural, ultra refrescante."
+      },
+      {
+        "id": 15,
+        "cat": "Frescas",
+        "name": "Hierbabuena",
+        "price": 500,
+        "stock": 20,
+        "sold": 28,
+        "img": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=300&q=80",
+        "desc": "Menta fresca con un toque herbáceo natural."
+      },
+      {
+        "id": 16,
+        "cat": "Tajín y Chamoy",
+        "name": "Cas Con Tajín y Chamoy",
+        "price": 600,
+        "stock": 12,
+        "sold": 19,
+        "img": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=300&q=80",
+        "desc": "Cas natural con el picante del Tajín y dulzor del Chamoy."
+      },
+      {
+        "id": 17,
+        "cat": "Tajín y Chamoy",
+        "name": "Mango Con Tajín y Chamoy",
+        "price": 600,
+        "stock": 10,
+        "sold": 25,
+        "img": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=300&q=80",
+        "desc": "Mango maduro enchilado con Chamoy artesanal."
+      },
+      {
+        "id": 18,
+        "cat": "Tajín y Chamoy",
+        "name": "Piña Con Tajín y Chamoy",
+        "price": 600,
+        "stock": 15,
+        "sold": 16,
+        "img": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=300&q=80",
+        "desc": "Piña tropical con el toque picante perfecto."
+      },
+      {
+        "id": 19,
+        "cat": "Postres Especiales",
+        "name": "Tacita de Piña",
+        "price": 1000,
+        "stock": 8,
+        "sold": 11,
+        "img": "https://images.unsplash.com/photo-1550461716-ba43c7b64264?w=300&q=80",
+        "desc": "Postre frío servido en tacita con piña fresca."
+      },
+      {
+        "id": 20,
+        "cat": "Postres Especiales",
+        "name": "Tacita de Oreo",
+        "price": 1000,
+        "stock": 6,
+        "sold": 13,
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=300&q=80",
+        "desc": "Capas de crema y Oreo triturada en tacita."
+      },
+      {
+        "id": 21,
+        "cat": "Postres Especiales",
+        "name": "Gelatina Mosaico",
+        "price": 1000,
+        "stock": 10,
+        "sold": 8,
+        "img": "https://images.unsplash.com/photo-1550461716-ba43c7b64264?w=300&q=80",
+        "desc": "Gelatina multicolor con leche condensada artesanal."
+      },
+      {
+        "id": 22,
+        "cat": "Postres Especiales",
+        "name": "Cheesecake",
+        "price": 1000,
+        "stock": 5,
+        "sold": 17,
+        "img": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=300&q=80",
+        "desc": "Cheesecake frío de fresa con base de galleta."
+      }
+    ],
+    "cart": [],
+    "orders": [],
+    "favs": [],
+    "ratings": {},
+    "comments": {},
+    "reportes": [],
+    "mensajes": [],
+    "donaciones": [],
+    "clientes": [],
+    "puntos": 0,
+    "nivel": "Bronce",
+    "eventos": [
+      {
+        "id": 1,
+        "titulo": "Fiesta Infantil - Familia Rojas",
+        "fecha": "2026-09-05",
+        "paquete": "20 paletas + decoración",
+        "estado": "Confirmado",
+        "total": 15000
+      }
+    ],
+    "configNegocio": {
+      "nombre": "Sugar Mood",
+      "telefono": "8888-1234",
+      "sinpe": "8888-1234",
+      "direccion": "San José, Costa Rica",
+      "horario": "Lun-Sáb 10:00 - 20:00",
+      "iva": 13,
+      "envio": 500,
+      "pedidoMinimo": 1500
+    },
+    "gastos": [
+      {
+        "id": 1,
+        "concepto": "Compra de insumos",
+        "monto": 25000,
+        "fecha": "2026-08-25"
+      },
+      {
+        "id": 2,
+        "concepto": "Empaques biodegradables",
+        "monto": 8000,
+        "fecha": "2026-08-26"
+      },
+      {
+        "id": 3,
+        "concepto": "Mantenimiento freezer",
+        "monto": 15000,
+        "fecha": "2026-08-27"
+      }
+    ]
+  }
+}
